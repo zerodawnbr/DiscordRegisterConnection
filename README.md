@@ -26,8 +26,8 @@ Ao iniciar pela primeira vez, será criado o arquivo **config.json** na pasta **
 
 ```json
 {
-    "id": "1399850570348626024",
-    "token": "lhEn07LSntSAB3fNeof619yCP5-kmnVQG279uTDorhsEu7HgYAoQHke2jisRwm0_uu_r",
+    "id": "13998505703481111111",
+    "token": "lhEn07LSntSAB3fNeof619yCP5kmnVQG279uTDorhsEu7HgYAoQHke2jisRwm0",
     "ServerName": "ZeroDawnBR - Livonia",
     "webservicephp": "",
     "mapa": "https://www.izurvive.com/livoniaHiking/",
@@ -39,7 +39,7 @@ Ao iniciar pela primeira vez, será criado o arquivo **config.json** na pasta **
 
 | Campo              | Descrição                                                                 | Valor padrão / Exemplo |
 |-------------------|---------------------------------------------------------------------------|----------------------|
-| **id**            | ID do canal do Discord onde as mensagens serão enviadas                  | `"1399850570348626024"` |
+| **id**            | ID do canal do Discord onde as mensagens serão enviadas                  | `"13998505703481111111"` |
 | **token**         | Token de autenticação do bot                                             | `"lhEn07LSntSAB3fNeof619..."` |
 | **ServerName**    | Nome do servidor mostrado nas mensagens                                  | `"ZeroDawnBR - Livonia"` |
 | **webservicephp** | URL de um webservice externo (opcional)                                  | `""` |
@@ -57,7 +57,7 @@ A cada conexão ou desconexão é registrado um arquivo fisico com o steamID do 
 ```json
 [
     {
-        "BohemiaID": "uTSOyJPPea4tYly8LAXd92npXV2eDMWiRaokMHFN91s=",
+        "BohemiaID": "uTSOyJPPea4tYly8LAXd92npXV2eDMWi",
         "Player": "Joagador1",
         "Action": "Connected",
         "SteamID": "123456789868988100",
@@ -66,7 +66,7 @@ A cada conexão ou desconexão é registrado um arquivo fisico com o steamID do 
         "CurrentDateUTC": "2025-08-24"
     },
     {
-        "BohemiaID": "uTSOyJPPea4tYly8LAXd92npXV2eDMWiRaokMHFN91s=",
+        "BohemiaID": "uTSOyJPPea4tYly8LAXd92npXV2eDMWi=",
         "Player": "Joagador1",
         "Action": "Disconnected",
         "SteamID": "123456789868988100",
