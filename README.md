@@ -1,4 +1,8 @@
+<p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Banner Zero Dawn"> </p>
+
+
 ![Banner do Mod](https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/zerodawntoolboxreigistroconexao.jpg)
+
 
 # Registros automáticos de entrada e saída de jogadores
 
@@ -75,3 +79,5 @@ A cada conexão ou desconexão é registrado um arquivo fisico com o steamID do 
         "Position": "11155.7, 180.096, 11406"
     },
 ```
+
+<br><br><p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Banner Zero Dawn"> </p>
